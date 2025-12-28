@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/raghvendra/Projects/calculator-grpc-project/cpp-server/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
